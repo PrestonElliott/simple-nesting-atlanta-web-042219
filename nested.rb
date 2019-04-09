@@ -104,10 +104,9 @@ def changing_alan
         }
      }
      #change what Alan Kay is :known_for to the value of the alans_new_info variable.
-		#  my_hash = {first: "i'm first!", second: "i'm second!"}
-		#  my_hash[:third] = "i'm third!"
+		
      alans_new_info = "GUI"
-		 programmer_hash[:known_for] 
+		 programmer_hash[:known_for]alans_new_info 
 end
 
 def adding_to_dennis
