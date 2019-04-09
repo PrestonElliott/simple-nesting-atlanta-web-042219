@@ -125,5 +125,10 @@ def adding_to_dennis
           :languages => ["C"]
         }
      }
+	programmer_hash[:dennis_ritchie][:languages]
+		 #  dennis_ritchies_language = programmer_hash[:dennis_ritchie][:languages]
+		 #  dennis_ritchies_language[0]
+		 # 		epic_tragedy[:montague][:hero][:status] = "dead"
+		 #     epic_tragedy[:capulet][:heroine][:status] = "dead"
 
 end
