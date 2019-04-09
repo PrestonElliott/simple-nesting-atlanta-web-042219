@@ -107,7 +107,7 @@ def changing_alan
 		#  my_hash = {first: "i'm first!", second: "i'm second!"}
 		#  my_hash[:third] = "i'm third!"
      alans_new_info = "GUI"
-		 programmer_hash[:known_for] = alans_new_info
+		 programmer_hash[:known_for] 
 end
 
 def adding_to_dennis
