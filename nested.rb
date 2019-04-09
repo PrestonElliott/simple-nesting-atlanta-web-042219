@@ -107,7 +107,7 @@ def changing_alan
 		#  dennis_ritchies_language = programmer_hash[:dennis_ritchie][:languages]
 		#  dennis_ritchies_language[0]
      alans_new_info = "GUI"
-		 alans_new_info = programmer_hash[:known_for]
+		 alans_new_info = programmer_hash[:alan_kay][:known_for]
 end
 
 def adding_to_dennis
